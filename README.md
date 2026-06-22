@@ -5,4 +5,4 @@ Based heavily on the official Shaarli (https://github.com/shaarli/Shaarli) isso 
 
 I am hardly an experienced coder, but this should work fine.
 
-To use, drop into the `plugins` folder within your shaarli installation, then configure the COMENTARIO_SERVER_URL in Shaarli's admin configuration.
+To use, edit `comentario.html` to your server's comentario script, then drop the entire `comentario` folder into the `plugins` folder within your shaarli installation, then configure the COMENTARIO_SERVER_URL in Shaarli's admin configuration.
